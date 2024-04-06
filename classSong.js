@@ -31,5 +31,5 @@ classSong([4,
     'listenLater_Andalouse_3:24',
     'favourite_In To The Night_3:58',
     'favourite_Live It Up_3:48',
-    'favourite']
+    'all']
 );
